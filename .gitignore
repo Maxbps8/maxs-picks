@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 .idea/
+_build/
+SETUP.md
+POSTING-CALENDAR.md
+SOURCES.md
